@@ -9,5 +9,3 @@ MyLog | ??? | [My Log](https://github.com/AndiRaihan/os222/blob/main/mylog.txt)
 OS Repo | ✓ | [My OS Repo](https://github.com/AndiRaihan/os222)
 ___
 > "Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin
-
-> Test

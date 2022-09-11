@@ -1,18 +1,16 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By AR</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[GITHUB]({{ site.githublink }})
+[LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
+[GITHUB](https://github.com/AndiRaihan/os222)
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
-<br><br>
-This is the way!
+This is my os222 project and I am AR.
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+>"Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin
 <hr>
 <br>

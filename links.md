@@ -20,3 +20,14 @@ This is a basic tutorial for Nano. This video is short, sweet, and simple. It im
 
 3. [Regex 101](https://regexone.com)<br>
 This is a crash course on Regex. This website explain regex beautifully along with interactive exercise. Not only lessons about regex, this site also have a couple of interesting exercise about regex in order to make you use the knowledge that you just learned.
+
+## Week 02<br>
+1. [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn](https://www.youtube.com/watch?v=inWWhr5tnEA)
+This is an oversimplified introduction to Cyber Security. Although it's oversimplified, it actually made me intrested in learning more about cyber security. This video explains about cyber security in such a way that i could easily understood what cyber security is.
+
+2. [Symmetric vs. Asymmetric Encryption – What are differences?](https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences)
+An Article that explains the difference between symmetric and asymmetric encription. I thought this Article is usefull because it helped me understand the difference between these 2 encryption a lot better. Also, i understood at what case should i use which encryption.
+
+3. [What is GPG / PGP](https://www.privex.io/articles/what-is-gpg)
+A thorough basic explanation about GPG. During this week (Week 02), we are tasked to encypt and decrypt file using GPG. This article really helped me out on understanding how to use gpg for decrypting and encrypting. 
+

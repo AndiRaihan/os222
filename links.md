@@ -31,3 +31,9 @@ An Article that explains the difference between symmetric and asymmetric encript
 3. [What is GPG / PGP](https://www.privex.io/articles/what-is-gpg)
 A thorough basic explanation about GPG. During this week (Week 02), we are tasked to encypt and decrypt file using GPG. This article really helped me out on understanding how to use gpg for decrypting and encrypting. 
 
+## Week 03<br>
+1. [Official FUSE documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
+A kernel documentation about FUSE. Well, if you want to learn about FUSE, why not learn it from it's official source/documentation?. This documentation have everything you need to know about FUSE file system.
+
+2. [Linux File System 101](https://opensource.com/life/16/10/introduction-linux-filesystems)
+An Introductory article to linux file system. Well, you'll be using linux for this course. Might as well learn about its file system right?

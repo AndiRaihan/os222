@@ -8,21 +8,30 @@ ZCZC W00 10 L03 GitHub related
 ZCZC W00 20 L04 GitHub Pages related
 ZCZC W00 5 L05 QUIZ
 ZCZC W00 70 L09 Weekly Assignments
-zczc w00 10 L41 TXT/mylog.txt related
+ZCZC w00 10 L41 TXT/mylog.txt related
 ZCZC W01 10 L01 SCELE/Discord related
 ZCZC W01 170 L02 ZOOM meetings related
 ZCZC W01 20 L03 GitHub related
 ZCZC W01 20 L04 GitHub Pages related
 ZCZC W01 30 L05 QUIZ
-zczc W01 15 L06 Studying about bash command, regex, and nano
-zczc W01 150 L09 Weekly Assignments
-zczc W01 30 L40 Making TXT/links
+ZCZC W01 15 L06 Studying about bash command, regex, and nano
+ZCZC W01 150 L09 Weekly Assignments
+ZCZC W01 30 L40 Making TXT/links
 ZCZC W02 20 L00 General, etc.
 ZCZC W02 20 L01 SCELE/Discord related
 ZCZC W02 200 L02 ZOOM meetings related
 ZCZC W02 10 L03 GitHub related
 ZCZC W02 10 L04 GitHub Pages related
 ZCZC W02 30 L05 QUIZ
-zczc W02 30 L06 Studying about gpg and cyber security
+ZCZC W02 30 L06 Studying about gpg and cyber security
 ZCZC W02 120 L09 Weekly Assignments
-zczc W02 20 L40 updating TXT/ in general 
+ZCZC W02 20 L40 updating TXT/ in general 
+ZCZC W03 120 L00 General, Offline Lecture, etc.
+ZCZC W03 20 L01 SCELE/Discord related
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 15 L03 GitHub related
+ZCZC W03 10 L04 GitHub Pages related
+ZCZC W03 40 L05 QUIZ
+ZCZC W03 15 L06 Studying about file system
+ZCZC W03 150 L09 Weekly Assignments
+ZCZC W03 10 L40 updating TXT/ in general

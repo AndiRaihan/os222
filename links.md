@@ -47,3 +47,7 @@ A short and sweet article about adressing in linux. If you're confused about add
 
 3. [Static vs Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
 A very comprehensive article about static and dynamic libraries. This article explain both of these libraries very thoroughly. With this article, you should understand all about static and dynamic libraries after you read it.
+
+## Week 05<br>
+1. [Virtual Memory 101](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+A short summary of what we learned this week. After you read this article you should get a good understanding about this week topic which is virtual memory.

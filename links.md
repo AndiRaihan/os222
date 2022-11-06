@@ -51,3 +51,10 @@ A very comprehensive article about static and dynamic libraries. This article ex
 ## Week 05<br>
 1. [Virtual Memory 101](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 A short summary of what we learned this week. After you read this article you should get a good understanding about this week topic which is virtual memory.
+
+## Week 06<br>
+1. [Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+A thorough article about threads and concurrency. This article explains everything that you need to know about threads and concurrency and more. Well if you have time i suggest you read and try to understand this article.
+
+2. [fork() in c](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+This articled helped me in understanding Demos this week. This article have everything you need to get strated on undertranding fork() in c.

@@ -11,7 +11,7 @@ permalink: LINKS/
 <hr>
 
 # LINKS<br>
-## Week 01<br>
+## Week 01
 1. [Nano vs Vim](https://www.linuxfordevices.com/tutorials/linux/nano-editor-vs-vim-editor)<br>
 This is an article that highlight the difference between Vim and Nano as a text editor. I like this article because it's short, compact, and easy to understand. This article also highlight the difference very well and made me understand the key difference between the two text editor.
 
@@ -21,7 +21,7 @@ This is a basic tutorial for Nano. This video is short, sweet, and simple. It im
 3. [Regex 101](https://regexone.com)<br>
 This is a crash course on Regex. This website explain regex beautifully along with interactive exercise. Not only lessons about regex, this site also have a couple of interesting exercise about regex in order to make you use the knowledge that you just learned.
 
-## Week 02<br>
+## Week 02
 1. [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn](https://www.youtube.com/watch?v=inWWhr5tnEA)<br>
 This is an oversimplified introduction to Cyber Security. Although it's oversimplified, it actually made me intrested in learning more about cyber security. This video explains about cyber security in such a way that i could easily understood what cyber security is.
 
@@ -31,14 +31,14 @@ An Article that explains the difference between symmetric and asymmetric encript
 3. [What is GPG / PGP](https://www.privex.io/articles/what-is-gpg)<br>
 A thorough basic explanation about GPG. During this week (Week 02), we are tasked to encypt and decrypt file using GPG. This article really helped me out on understanding how to use gpg for decrypting and encrypting. 
 
-## Week 03<br>
+## Week 03
 1. [Official FUSE documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 A kernel documentation about FUSE. Well, if you want to learn about FUSE, why not learn it from it's official source/documentation?. This documentation have everything you need to know about FUSE file system.
 
 2. [Linux File System 101](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
 An Introductory article to linux file system. Well, you'll be using linux for this course. Might as well learn about its file system right?
 
-## Week 04<br>
+## Week 04
 1. [The basics of C Pointer](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>
 An article to get you started on c pointers. This week we're learning all about c pointer. After reading  this article, almost all of the questions that you might have will be answered.
 
@@ -48,13 +48,17 @@ A short and sweet article about adressing in linux. If you're confused about add
 3. [Static vs Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
 A very comprehensive article about static and dynamic libraries. This article explain both of these libraries very thoroughly. With this article, you should understand all about static and dynamic libraries after you read it.
 
-## Week 05<br>
+## Week 05
 1. [Virtual Memory 101](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 A short summary of what we learned this week. After you read this article you should get a good understanding about this week topic which is virtual memory.
 
-## Week 06<br>
+## Week 06
 1. [Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
 A thorough article about threads and concurrency. This article explains everything that you need to know about threads and concurrency and more. Well if you have time i suggest you read and try to understand this article.
 
 2. [fork() in c](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
-This articled helped me in understanding Demos this week. This article have everything you need to get strated on undertranding fork() in c.
+This article helped me in understanding Demos this week. This article have everything you need to get strated on undertranding fork() in c.
+
+## Week 07
+1. [Process Synchronization & Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
+A very short article on what we learned this week. It's only a very brief explenation so i'll recomend you to try and look for another resources that's more thorough than this.

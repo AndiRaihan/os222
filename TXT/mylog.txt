@@ -62,4 +62,12 @@ ZCZC W06 30 L05 QUIZ
 ZCZC W06 140 L06 Studying about Concurrency: Processes & Threads
 ZCZC W06 20 L09 Weekly Assignments
 ZCZC W06 20 L40 updating TXT/ in general
-
+ZCZC W07 140 L00 General, Offline Lecture, etc.
+ZCZC W07 10 L01 SCELE/Discord related
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07 15 L03 GitHub related
+ZCZC W07 10 L04 GitHub Pages related
+ZCZC W07 25 L05 QUIZ
+ZCZC W07 140 L06 Studying about Synchronization & Deadlock
+ZCZC W07 30 L09 Weekly Assignments
+ZCZC W07 20 L40 updating TXT/ in general
